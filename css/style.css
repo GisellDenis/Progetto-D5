@@ -51,8 +51,8 @@ nav h2{
     color: rgb(54, 52, 52);
     text-align: center;
     text-decoration: none;
-    width: 462px;
-    font-size: 1.8rem;
+    width: 450px;
+    font-size: 1.5rem;
   }
 button{
   background-color: #f04c2f;
@@ -86,6 +86,69 @@ section {
     width: 350px;
     margin-bottom: 20px;
     height: 350px;
+}
+
+article {
+    background-color: orangered;
+    padding: 2em;
+    color: white;
+}
+
+article h3 {
+    font-size: 1.8em;
+    font-weight: bolder;
+    padding-bottom: 0.5em;
+}
+
+blockquote {
+    font-style: italic;
+    padding-bottom: 0.8em;
+}
+
+.ceo {
+    font-size: 0.8em;
+}
+
+.section {
+    margin: 1em;
+    border: 1px solid lightgray;
+    padding-bottom: 1em;
+}
+
+.section img {
+    width: 100%;
+}
+
+.section p {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+footer {
+    background-color: #25a2c3;
+    text-align: center;
+    height: 350px;
+    color: #c8e7f0;
+    text-decoration: none;
+}
+
+footer h3 {
+    font-family: "Montserrat";
+    font-size: 1.8em;
+    font-weight: bolder;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+footer a {
+    color: #c8e7f0;
+}
+
+footer hr {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 6em;
+    margin-right: 6em;
 }
 
 
